@@ -1,1 +1,1 @@
-# odin-recipes
+This project will help reinforce the fundamental html concepts I learned in the previous lesson.
